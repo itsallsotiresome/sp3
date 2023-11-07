@@ -1,0 +1,44 @@
+New process PID: 14824
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
+Signal code: 0
+Signal number: 1
+Signal value: 0
+Errno association: 0
+Process ID: 11419
+Real user ID: 1000
+Address at which fault occurred: 11419
+Exit value: 0
+Band event for SIGPOLL/SIGIO: 4294967307419
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
+New process PID: 14977
+sleep
+sleep
+sleep
+sleep
+Signal code: 0
+Signal number: 15
+Signal value: 0
+Errno association: 0
+Process ID: 11419
+Real user ID: 1000
+Address at which fault occurred: 11419
+Exit value: 0
+Band event for SIGPOLL/SIGIO: 4294967307419
+sleep
+sleep
+sleep
+sleep
